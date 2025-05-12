@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BleExplorer</string>
+    <string name="bluetooth_enabling_was_cancelled">Bluetooth enabling was cancelled.</string>
+    <string name="permissions_not_granted">Permissions not granted.</string>
+    <string name="scan_failed_with_error">Scan failed with error: %1$d</string>
+    <string name="ble_not_supported_on_this_device">BLE not supported on this device.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bonding_failed_or_removed_for">Bonding failed or removed for %1$s - %2$s</string>
+    <string name="bonding_started_with">Bonding started with %1$s - %2$s</string>
+    <string name="bonded_with">Bonded with %1$s - %2$s</string>
+</resources>
